@@ -1,4 +1,3 @@
-hello-world
-===========
+#hello-world
 
-The classic you-know-which project...
+The classic you-know-which project... just for training.
